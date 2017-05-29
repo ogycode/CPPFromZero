@@ -10,7 +10,7 @@ int main()
 {
 	system("color 70");
 	setlocale(0, "");
-	SetConsoleTitle("005.Functions");
+	SetConsoleTitle("006.Functions");
 
 	string str;
 
