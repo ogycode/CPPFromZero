@@ -59,6 +59,11 @@ int main()
 	cout << "*pvalue=\t" << *pvalue << endl;
 	cout << "&pvalue=\t" << &pvalue << endl;
 
+	delete p1;
+	delete p2;
+	delete p3;
+	delete pvalue;
+
 	system("pause");
     return 0;
 }
