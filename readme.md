@@ -1,4 +1,4 @@
-[![Logo](https://raw.githubusercontent.com/ogycode/WeatherWidget/master/merch/logo.jpg)](https://github.com/ogycode/CPPFromZero)*
+[![Logo](https://raw.githubusercontent.com/ogycode/CPPFromZero/master/merch/logo.jpg)](https://github.com/ogycode/CPPFromZero)*
 
 ## C++ from Zero
 **I study the language and this is my "note-book"**
