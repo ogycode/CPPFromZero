@@ -1,7 +1,7 @@
 [![Logo](https://raw.githubusercontent.com/ogycode/CPPFromZero/master/merch/logo.jpg)](https://github.com/ogycode/CPPFromZero)*
 
-## Algorithms
-**I study diferent algorithms and this is my "note-book"**
+## C++ from Zero
+**I study the language and this is my "note-book"**
 
  Steps:
   - [001.Hello World](https://github.com/ogycode/CPPFromZero/tree/master/src/001.HelloWorld)
