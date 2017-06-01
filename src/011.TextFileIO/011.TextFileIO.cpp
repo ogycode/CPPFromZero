@@ -6,7 +6,7 @@ int main()
 {
 	system("color 70");
 	setlocale(0, "");
-	SetConsoleTitle("0010.Classes");
+	SetConsoleTitle("0011.Text File I/O");
 
 	//write
 	string filePath;
