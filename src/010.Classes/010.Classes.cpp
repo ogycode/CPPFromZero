@@ -1,5 +1,7 @@
 #include "stdafx.h"
 
+#include "Student.h"
+
 using namespace std;
 
 int main()
@@ -36,6 +38,12 @@ int main()
 	cout << "std->GetAvgScore() - " << std->GetAvgScore() << endl << endl;
 
 	delete std;
+
+	Student *std2 = new Student("Vadim", "Verloka");
+	std2->SetScores(scores, 3);
+	cout << "With pre-init:" << endl;
+	cout << "std2->GetName() - " << std2->GetName() << endl;
+	cout << "std2->GetAvgScore() - " << std2->GetAvgScore() << endl << endl;
 
 	system("pause");
     return 0;

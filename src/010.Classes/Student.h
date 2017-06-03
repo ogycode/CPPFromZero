@@ -1,15 +1,13 @@
 #pragma once
-#include "stdafx.h"
-
 using namespace std;
 
 class Student
 {
 private:
 	int scoresSize = 5;
-	int *scores;
-	string *firstName;
-	string *lastName;
+	int *scores = NULL;
+	string *firstName = NULL;
+	string *lastName = NULL;
 
 public:
 	Student();

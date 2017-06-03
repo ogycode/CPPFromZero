@@ -1,4 +1,5 @@
 #include "stdafx.h"
+#include "MyStorage.h"
 
 using namespace std;
 
@@ -19,6 +20,18 @@ int main()
 	string arr3[5]{ "str1", "str2", "str3", "str4", "str5" };
 	PrintArray(arr3, 5);
 
+	cout << endl << "MyStorage:" << endl;
+	MyStorage<5, int> *mstr = new MyStorage<5, int>();
+	mstr->Add(4);
+	mstr->Add(6);
+	mstr->Add(63);
+	mstr->Add(61);
+	mstr->Add(1);
+	mstr->Add(633);
+	cout << "mstr->PrintStorage():" << endl;
+	mstr->PrintStorage();
+	delete mstr;
+	
 	system("pause");
 	return 0;
 }

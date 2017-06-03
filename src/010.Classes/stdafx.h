@@ -7,5 +7,3 @@
 #include <windows.h>
 #include <clocale>
 #include <string>
-
-#include "Student.h"
