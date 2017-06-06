@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "013.OperatorOverloading", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "014.STL_Vector", "014.STL_Vector\014.STL_Vector.vcxproj", "{DEBA8D22-540A-4310-9E0F-30D371985D74}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "015.STL_List", "015.STL_List\015.STL_List.vcxproj", "{E618225D-D96F-4F83-8BD2-1F24188C2ECF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{DEBA8D22-540A-4310-9E0F-30D371985D74}.Release|x64.Build.0 = Release|x64
 		{DEBA8D22-540A-4310-9E0F-30D371985D74}.Release|x86.ActiveCfg = Release|Win32
 		{DEBA8D22-540A-4310-9E0F-30D371985D74}.Release|x86.Build.0 = Release|Win32
+		{E618225D-D96F-4F83-8BD2-1F24188C2ECF}.Debug|x64.ActiveCfg = Debug|x64
+		{E618225D-D96F-4F83-8BD2-1F24188C2ECF}.Debug|x64.Build.0 = Debug|x64
+		{E618225D-D96F-4F83-8BD2-1F24188C2ECF}.Debug|x86.ActiveCfg = Debug|Win32
+		{E618225D-D96F-4F83-8BD2-1F24188C2ECF}.Debug|x86.Build.0 = Debug|Win32
+		{E618225D-D96F-4F83-8BD2-1F24188C2ECF}.Release|x64.ActiveCfg = Release|x64
+		{E618225D-D96F-4F83-8BD2-1F24188C2ECF}.Release|x64.Build.0 = Release|x64
+		{E618225D-D96F-4F83-8BD2-1F24188C2ECF}.Release|x86.ActiveCfg = Release|Win32
+		{E618225D-D96F-4F83-8BD2-1F24188C2ECF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
