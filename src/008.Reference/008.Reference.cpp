@@ -20,24 +20,31 @@ int main()
 	cout << "ref = " << ref << endl << endl;
 
 	cout << "Change value:" << endl;
-	value++;
+	value++;												//изминение значени€ переменной сказываетс€ и на значении ссылки
 	cout << "value = " << value << endl;
 	cout << "ref = " << ref << endl << endl;
 
 	cout << "Change ref:" << endl;
-	ref++;
+	ref++;													//при изминении ссылки измен€етс€ и значение переменной
 	cout << "value = " << value << endl;
 	cout << "ref = " << ref << endl << endl;
 
 	cout << "Function:" << endl;
 	int func = 10;
 	cout << "value = " << func << endl;
+	//передава€ переменную в функцию она не измен€етс€!
 	cout << "SumByValue(func) = " << SumByValue(func) << endl;
 	cout << "value = " << func << endl;
+	//передава€ ссылку на переменную в функцию, все изминение ќ“ќЅ–ј«я“—я
+	//на переменной вне функции
 	cout << "SumByReference(func) = " << SumByReference(func) << endl;
 	cout << "value = " << func << endl;
+	//если нужно передать ссылку но измен€ть переменную нельз€
+	//нужно определить функию вида SumByReference2(const int &ref)
 	cout << "SumByReference2(func) = " << SumByReference2(func) << endl;
 	cout << "value = " << func << endl;
+	//передава€ указатель на переменную в функцию
+	//также как и ссылкой все изминение ќ“ќЅ–ј«я“—я
 	cout << "SumByPointer(&func) = " << SumByPointer(&func) << endl;
 	cout << "value = " << func << endl;
 
