@@ -1,39 +1,23 @@
 #include "stdafx.h"
 #include "Student.h"
 
-Student::Student()
+Student::Student() : Human()
 {
 	this->scores = new int[scoresSize];
-	this->firstName = new string();
-	this->lastName = new string();
 
 	for (size_t i = 0; i < this->scoresSize; i++)
 		this->scores[i] = 0;
 }
-Student::Student(string fName, string lName)
+Student::Student(string fName, string lName) : Human(fName + " " + lName)
 {
 	this->scores = new int[this->scoresSize];
-	this->firstName = new string();
-	this->lastName = new string();
-
-	Student::SetFirstName(fName);
-	Student::SetLastName(lName);
 }
 Student::~Student()
 {
 	delete[] this->scores;
-	delete this->firstName;
-	delete this->lastName;
 }
 
-void Student::SetFirstName(const string &FirstName)
-{
-	this->firstName = new string(FirstName);
-}
-void Student::SetLastName(const string &LastName)
-{
-	this->lastName = new string(LastName);
-}
+
 void Student::SetScores(const int * Scores, int size)
 {
 	this->scoresSize = size;
@@ -43,11 +27,6 @@ void Student::SetScores(const int * Scores, int size)
 	for (size_t i = 0; i < size; i++)
 		this->scores[i] = Scores[i];
 }
-
-string Student::GetName()
-{
-	return *this->firstName + " " + *this->lastName;
-}
 int Student::GetAvgScore()
 {
 	int sum = 0;
@@ -55,4 +34,16 @@ int Student::GetAvgScore()
 		sum += this->scores[i];
 
 	return sum / this->scoresSize;
+}
+Human * Student::Create()
+{
+	return new Student();
+}
+Human * Student::Clone()
+{
+	return new Student(*this);
+}
+string Student::Say()
+{
+	return "Hello, I'm a student! My name is " + this->GetName() + ". I'm " + to_string(this->GetAge()) + " years old.";
 }

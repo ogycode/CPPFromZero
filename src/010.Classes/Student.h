@@ -1,23 +1,25 @@
 #pragma once
+#include "stdafx.h"
+#include "Human.h"
+
 using namespace std;
 
-class Student
+class Student: virtual public Human
 {
 private:
 	int scoresSize = 5;
-	int *scores = NULL;
-	string *firstName = NULL;
-	string *lastName = NULL;
+	int *scores;
 
 public:
 	Student();
 	Student(string firstName, string lastName);
 	~Student();
 
-	void SetFirstName(const string &FirstName);
-	void SetLastName(const string &LastName);
 	void SetScores(const int *Scores, int size);
-
-	string GetName();
 	int GetAvgScore();
+
+	// Унаследовано через Human, Функции которые обязательно нужно ПЕРЕОПРЕДЕЛИТЬ
+	virtual Human * Create() override;
+	virtual Human * Clone() override;
+	virtual string Say() override;
 };
