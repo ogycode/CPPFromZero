@@ -6,7 +6,7 @@ int main()
 {
 	system("color 70");
 	setlocale(0, "Russina");
-	SetConsoleTitle("0013.Operator Overloading");
+	SetConsoleTitle("013.Operator Overloading");
 
 	ComplexValue value1(15, 2);
 	ComplexValue value2(25, -2);

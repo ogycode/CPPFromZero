@@ -10,7 +10,7 @@ int main()
 {
 	system("color 70");
 	setlocale(0, "Russina");
-	SetConsoleTitle("0012.Template");
+	SetConsoleTitle("012.Template");
 
 	cout << "Functions template, PrintArray(const T *arr, int size):" << endl;
 	int arr1[5]{ 1,2,3,4,5 };

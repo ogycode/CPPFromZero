@@ -30,7 +30,7 @@ int main()
 
 	system("color 70");
 	setlocale(0, "Russina");
-	SetConsoleTitle("0016.STL_Map");
+	SetConsoleTitle("016.STL_Map");
 
 	//просто мапа <int, string>
 	map<int, string> simple;

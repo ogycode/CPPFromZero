@@ -8,7 +8,7 @@ int main()
 {
 	system("color 70");
 	setlocale(0, "");
-	SetConsoleTitle("0010.Classes");
+	SetConsoleTitle("010.Classes");
 
 	Student *std = new Student();
 	cout << "Without init:" << endl;

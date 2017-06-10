@@ -6,7 +6,7 @@ int main()
 {
 	system("color 70");
 	setlocale(0, "Russina");
-	SetConsoleTitle("0015.STL_List");
+	SetConsoleTitle("015.STL_List");
 
 	list<int> intList1;
 	list<int> intList2;

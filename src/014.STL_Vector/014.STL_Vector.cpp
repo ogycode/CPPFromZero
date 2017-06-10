@@ -6,7 +6,7 @@ int main()
 {
 	system("color 70");
 	setlocale(0, "Russina");
-	SetConsoleTitle("0014.STL_Vector");
+	SetConsoleTitle("014.STL_Vector");
 
 	int vectorSize = 0;
 	cout << "Enter size of vector: ";
