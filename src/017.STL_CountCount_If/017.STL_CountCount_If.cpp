@@ -30,19 +30,19 @@ int main()
 	b[13] = 42;
 	b[14] = 42;
 
-	//алгоритм count считате количество элементов 
-	//равных value, count(start, end, value)
+	//Р°Р»РіРѕСЂРёС‚Рј count СЃС‡РёС‚Р°С‚Рµ РєРѕР»РёС‡РµСЃС‚РІРѕ СЌР»РµРјРµРЅС‚РѕРІ 
+	//СЂР°РІРЅС‹С… value, count(start, end, value)
 	cout << "Coutn of 42 in vector b : " << count(b.begin(), b.end(), 42) << endl;
 	cout << "Coutn of 1 in vector b : " << count(b.begin(), b.end(), 1) << endl;
 	cout << "Coutn of 8 in vector b : " << count(b.begin(), b.end(), 8) << endl;
 	cout << "Coutn of 0 in vector b : " << count(b.begin(), b.end(), 0) << endl;
 
-	//coutn_if считате количество элементов для 
-	//которых предикат возвращает true
+	//coutn_if СЃС‡РёС‚Р°С‚Рµ РєРѕР»РёС‡РµСЃС‚РІРѕ СЌР»РµРјРµРЅС‚РѕРІ РґР»СЏ 
+	//РєРѕС‚РѕСЂС‹С… РїСЂРµРґРёРєР°С‚ РІРѕР·РІСЂР°С‰Р°РµС‚ true
 	cout << "Count_If of numbers betwen 0 and 10 in vector b : " << count_if(b.begin(), b.end(), Pred) << endl;
 
-	//пример с лямбда-выражением,
-	//количество цифер делящихся на 2 без остатка
+	//РїСЂРёРјРµСЂ СЃ Р»СЏРјР±РґР°-РІС‹СЂР°Р¶РµРЅРёРµРј,
+	//РєРѕР»РёС‡РµСЃС‚РІРѕ С†РёС„РµСЂ РґРµР»СЏС‰РёС…СЃСЏ РЅР° 2 Р±РµР· РѕСЃС‚Р°С‚РєР°
 	cout << "Count_If of Numbers that are divisible by 2 without residue in vector b : " << count_if(b.begin(), b.end(), [](int i) {return i % 2 == 0; }) << endl;
 
 	system("pause");

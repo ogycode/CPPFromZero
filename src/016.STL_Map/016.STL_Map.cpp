@@ -22,29 +22,29 @@ struct sortElemntLess
 int main()
 {
 	/*map - Dictionary
-	  ключ должен быть уникальными
+	  РєР»СЋС‡ РґРѕР»Р¶РµРЅ Р±С‹С‚СЊ СѓРЅРёРєР°Р»СЊРЅС‹РјРё
 
 	  multimap
-	  ключ может быть не уникальным
+	  РєР»СЋС‡ РјРѕР¶РµС‚ Р±С‹С‚СЊ РЅРµ СѓРЅРёРєР°Р»СЊРЅС‹Рј
 	*/
 
 	system("color 70");
 	setlocale(0, "Russina");
 	SetConsoleTitle("016.STL_Map");
 
-	//просто мапа <int, string>
+	//РїСЂРѕСЃС‚Рѕ РјР°РїР° <int, string>
 	map<int, string> simple;
 
 	simple[5235] = "First";
 	simple[6541] = "Second";
 	simple[8141] = "Thrid";
 
-	//сначала
+	//СЃРЅР°С‡Р°Р»Р°
 	cout << "simple<int, string> (from begin):" << endl;
 	for (map<int, string>::iterator i = simple.begin(); i != simple.end(); i++)
 		cout << (*i).first << " : " << (*i).second << endl;
 
-	//сконца
+	//СЃРєРѕРЅС†Р°
 	cout << "simple<int, string> (from end):" << endl;
 	for (map<int, string>::reverse_iterator i = simple.rbegin(); i != simple.rend(); i++)
 		cout << (*i).first << " : " << (*i).second << endl;
@@ -60,10 +60,10 @@ int main()
 	for (map<string, int>::iterator i = simple2.begin(); i != simple2.end(); i++)
 		cout << (*i).first << " : " << (*i).second << endl;
 
-	//map  с сортировкой
-	//сортировка с помощью less<int>
-	//такая самая как и с помощью 
-	//своего компаратора sortLess
+	//map  СЃ СЃРѕСЂС‚РёСЂРѕРІРєРѕР№
+	//СЃРѕСЂС‚РёСЂРѕРІРєР° СЃ РїРѕРјРѕС‰СЊСЋ less<int>
+	//С‚Р°РєР°СЏ СЃР°РјР°СЏ РєР°Рє Рё СЃ РїРѕРјРѕС‰СЊСЋ 
+	//СЃРІРѕРµРіРѕ РєРѕРјРїР°СЂР°С‚РѕСЂР° sortLess
 	map<int, string, sortLess> sortMap;
 	sortMap[532] = "M. Jeckson";
 	sortMap[521] = "J. Peters";
@@ -80,8 +80,8 @@ int main()
 	for (map<int, string>::iterator i = sortMap.begin(); i != sortMap.end(); i++)
 		cout << (*i).first << " : " << (*i).second << endl;
 
-	//map с ключем классом Element
-	// + сортировка по этому ключу
+	//map СЃ РєР»СЋС‡РµРј РєР»Р°СЃСЃРѕРј Element
+	// + СЃРѕСЂС‚РёСЂРѕРІРєР° РїРѕ СЌС‚РѕРјСѓ РєР»СЋС‡Сѓ
 	map<Element, string, sortElemntLess> mapElement;
 	Element three(3);
 	mapElement[three] = "three";
