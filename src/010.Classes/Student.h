@@ -18,7 +18,7 @@ public:
 	void SetScores(const int *Scores, int size);
 	int GetAvgScore();
 
-	// Унаследовано через Human, Функции которые обязательно нужно ПЕРЕОПРЕДЕЛИТЬ
+	// РЈРЅР°СЃР»РµРґРѕРІР°РЅРѕ С‡РµСЂРµР· Human, С„СѓРЅРєС†РёРё РєРѕС‚РѕСЂС‹Рµ РѕР±СЏР·Р°С‚РµР»СЊРЅРѕ РЅСѓР¶РЅРѕ РїРµСЂРµРѕРїСЂРµРґРµР»РёС‚СЊ
 	virtual Human * Create() override;
 	virtual Human * Clone() override;
 	virtual string Say() override;

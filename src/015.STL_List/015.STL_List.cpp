@@ -18,14 +18,14 @@ int main()
 	default_random_engine generator;
 	uniform_int_distribution<int> distribution(1, 200);
 
-	//заполняем список указаным количеством чисел
+	//Р·Р°РїРѕР»РЅСЏРµРј СЃРїРёСЃРѕРє СѓРєР°Р·Р°РЅС‹Рј РєРѕР»РёС‡РµСЃС‚РІРѕРј С‡РёСЃРµР»
 	for (size_t i = 0; i < listSize; i++)
 		intList1.push_back(distribution(generator));
 
 	for (size_t i = 0; i < listSize; i++)
 		intList2.push_back(distribution(generator));
 
-	//выводим списки
+	//РІС‹РІРѕРґРёРј СЃРїРёСЃРєРё
 	cout << "List #1:" << endl;
 	for (list<int>::iterator it = intList1.begin(); it != intList1.end(); it++)
 		cout << "intList1 : " << *it << endl;
@@ -34,11 +34,11 @@ int main()
 	for (list<int>::iterator it = intList2.begin(); it != intList2.end(); it++)
 		cout << "intList2 : " << *it << endl;
 
-	//сортируем списки по возростанию
+	//СЃРѕСЂС‚РёСЂСѓРµРј СЃРїРёСЃРєРё РїРѕ РІРѕР·СЂРѕСЃС‚Р°РЅРёСЋ
 	intList1.sort();
 	intList2.sort();
 
-	//выводим отсротированые списки
+	//РІС‹РІРѕРґРёРј РѕС‚СЃСЂРѕС‚РёСЂРѕРІР°РЅС‹Рµ СЃРїРёСЃРєРё
 	cout << endl << "Sorted List #1:" << endl;
 	for (list<int>::iterator it = intList1.begin(); it != intList1.end(); it++)
 		cout << "intList1 : " << *it << endl;
@@ -47,10 +47,10 @@ int main()
 	for (list<int>::iterator it = intList2.begin(); it != intList2.end(); it++)
 		cout << "intList2 : " << *it << endl;
 
-	//сливаем два отсортированых списка
+	//СЃР»РёРІР°РµРј РґРІР° РѕС‚СЃРѕСЂС‚РёСЂРѕРІР°РЅС‹С… СЃРїРёСЃРєР°
 	intList1.merge(intList2);
 
-	//выводим слитый список
+	//РІС‹РІРѕРґРёРј СЃР»РёС‚С‹Р№ СЃРїРёСЃРѕРє
 	cout << endl << "Merged List #1:" << endl;
 	for (list<int>::iterator it = intList1.begin(); it != intList1.end(); it++)
 		cout << "intList1 : " << *it << endl;

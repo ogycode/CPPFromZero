@@ -13,17 +13,17 @@ int main()
 	int value = 10;
 	int *pointer = &value;
 
-	cout << "value = " << value << endl;					//ïåðåìåíííàÿ
-	cout << "*pointer = " << *pointer << endl;				//çíà÷åíèå ïåðåìåííîé value ÷åðåç óêàçàòåëü
-	cout << "&value = " << &value << endl;					//àääðåñ ïåðåìåííîé value
-	cout << "pointer = " << pointer << endl << endl;		//àääðåñ ïåðåìåííîé value, çíà÷åíèå ïåðåìåííîé pointer
+	cout << "value = " << value << endl;					//Ð¿ÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ð½Ð°
+	cout << "*pointer = " << *pointer << endl;				//Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿ÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ð¾Ð¹ value Ñ‡ÐµÑ€ÐµÐ· ÑƒÐºÐ°Ð·Ð°Ñ‚ÐµÐ»ÑŒ
+	cout << "&value = " << &value << endl;					//Ð°Ð´Ð´Ñ€ÐµÑ Ð¿ÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ð¾Ð¹ value
+	cout << "pointer = " << pointer << endl << endl;		//Ð°Ð´Ð´Ñ€ÐµÑ Ð¿ÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ð¾Ð¹ value, Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿ÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ð¾Ð¹ pointer
 
 	value += 20;
 	cout << "value += 20, value = " << value << endl;
-	*pointer += 20;											//èçìåíåíèå çíà÷åíèå ïåðåìåííîé ÷åðåç óêàçàòåëü
+	*pointer += 20;											//Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿ÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ð¾Ð¹ Ñ‡ÐµÑ€ÐµÐ· ÑƒÐºÐ°Ð·Ð°Ñ‚ÐµÐ»ÑŒ
 	cout << "*pointer += 20, value = " << value << endl << endl;
 
-	//Óêàçàòåëü íà ôóíêöèþ
+	//Ð£ÐºÐ°Ð·Ð°Ñ‚ÐµÐ»ÑŒ Ð½Ð° Ñ„ÑƒÐ½ÐºÑ†Ð¸ÑŽ
 	int(*ptrSum)(int, int) = Sum;
 	cout << "Sum(1,1) = " << Sum(1, 1) << endl;
 	cout << "ptrSum(1,1) = " << ptrSum(1, 1) << endl;

@@ -12,15 +12,15 @@ int main()
 	cout << "Enter size of vector: ";
 	cin >> vectorSize;
 
-	//вектор на указаное кличество элементов, заполненый нулями
+	//РІРµРєС‚РѕСЂ РЅР° СѓРєР°Р·Р°РЅРѕРµ РєР»РёС‡РµСЃС‚РІРѕ СЌР»РµРјРµРЅС‚РѕРІ, Р·Р°РїРѕР»РЅРµРЅС‹Р№ РЅСѓР»СЏРјРё
 	vector<int> intVector(vectorSize);					
 
-	//C++ 11, генератор случайных чисел
-	//c 1 по 200
+	//C++ 11, РіРµРЅРµСЂР°С‚РѕСЂ СЃР»СѓС‡Р°Р№РЅС‹С… С‡РёСЃРµР»
+	//c 1 РїРѕ 200
 	default_random_engine generator;
 	uniform_int_distribution<int> distribution(1, 200);
 
-	//заполняем вектор случайными значениями
+	//Р·Р°РїРѕР»РЅСЏРµРј РІРµРєС‚РѕСЂ СЃР»СѓС‡Р°Р№РЅС‹РјРё Р·РЅР°С‡РµРЅРёСЏРјРё
 	for (size_t i = 0; i < vectorSize; i++)
 		intVector[i] = distribution(generator);
 
@@ -28,7 +28,7 @@ int main()
 	for (size_t i = 0; i < intVector.size(); i++)
 		cout << "intVector[" << i << "] : " << intVector[i] << endl;
 
-	//добовляем значение в конец ветора
+	//РґРѕР±РѕРІР»СЏРµРј Р·РЅР°С‡РµРЅРёРµ РІ РєРѕРЅРµС† РІРµС‚РѕСЂР°
 	int value = 0;
 	cout << endl << "Add to end new value: ";
 	cin >> value;
@@ -37,7 +37,7 @@ int main()
 	for (size_t i = 0; i < intVector.size(); i++)
 		cout << "intVector[" << i << "] : " << intVector[i] << endl;
 
-	//добовляем элемент в начало
+	//РґРѕР±РѕРІР»СЏРµРј СЌР»РµРјРµРЅС‚ РІ РЅР°С‡Р°Р»Рѕ
 	cout << endl << "Add to begin new value: ";
 	cin >> value;
 	intVector.insert(intVector.begin(), value);

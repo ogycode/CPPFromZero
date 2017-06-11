@@ -21,3 +21,4 @@
   - [015.**STL** List](https://github.com/ogycode/CPPFromZero/tree/master/src/015.STL_List)
   - [016.**STL** Map](https://github.com/ogycode/CPPFromZero/tree/master/src/016.STL_Map)
   - [017.**STL** Count, Count_If](https://github.com/ogycode/CPPFromZero/tree/master/src/017.STL_CountCount_If)
+  - [018.**STL** All_Of, Any_Of, None_Of](https://github.com/ogycode/CPPFromZero/tree/master/src/018.STL_All_OfAny_OfNone_Of)
