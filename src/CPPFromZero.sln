@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "019.STL_ForEachRangeFor", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "020.STL_Mismatch", "020.STL_Mismatch\020.STL_Mismatch.vcxproj", "{2CC20EF7-EC21-4ACC-AE9C-08079BC2A21C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "021.STL_Equal", "021.STL_Equal\021.STL_Equal.vcxproj", "{7CFD9DB1-E99D-4FE5-AB59-7E437F5290B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +213,14 @@ Global
 		{2CC20EF7-EC21-4ACC-AE9C-08079BC2A21C}.Release|x64.Build.0 = Release|x64
 		{2CC20EF7-EC21-4ACC-AE9C-08079BC2A21C}.Release|x86.ActiveCfg = Release|Win32
 		{2CC20EF7-EC21-4ACC-AE9C-08079BC2A21C}.Release|x86.Build.0 = Release|Win32
+		{7CFD9DB1-E99D-4FE5-AB59-7E437F5290B7}.Debug|x64.ActiveCfg = Debug|x64
+		{7CFD9DB1-E99D-4FE5-AB59-7E437F5290B7}.Debug|x64.Build.0 = Debug|x64
+		{7CFD9DB1-E99D-4FE5-AB59-7E437F5290B7}.Debug|x86.ActiveCfg = Debug|Win32
+		{7CFD9DB1-E99D-4FE5-AB59-7E437F5290B7}.Debug|x86.Build.0 = Debug|Win32
+		{7CFD9DB1-E99D-4FE5-AB59-7E437F5290B7}.Release|x64.ActiveCfg = Release|x64
+		{7CFD9DB1-E99D-4FE5-AB59-7E437F5290B7}.Release|x64.Build.0 = Release|x64
+		{7CFD9DB1-E99D-4FE5-AB59-7E437F5290B7}.Release|x86.ActiveCfg = Release|Win32
+		{7CFD9DB1-E99D-4FE5-AB59-7E437F5290B7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

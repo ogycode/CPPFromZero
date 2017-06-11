@@ -24,3 +24,4 @@
   - [018.**STL** All_Of, Any_Of, None_Of](https://github.com/ogycode/CPPFromZero/tree/master/src/018.STL_All_OfAny_OfNone_Of)
   - [019.**STL** ForEach, RangeFor](https://github.com/ogycode/CPPFromZero/tree/master/src/019.STL_ForEachRangeFor)
   - [020.**STL** Mismatch](https://github.com/ogycode/CPPFromZero/tree/master/src/020.STL_Mismatch)
+  - [021.**STL** Equal](https://github.com/ogycode/CPPFromZero/tree/master/src/021.STL_Equal)
