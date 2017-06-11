@@ -3,6 +3,9 @@
 ## C++ from Zero
 **I study the language and this is my "note-book"**
 
+Links:
+  - [ru.cppreference.com](http://ru.cppreference.com)
+
  Steps:
   - [001.Hello World](https://github.com/ogycode/CPPFromZero/tree/master/src/001.HelloWorld)
   - [002.Data Types](https://github.com/ogycode/CPPFromZero/tree/master/src/002.DataTypes)
@@ -26,3 +29,4 @@
   - [020.**STL** Mismatch](https://github.com/ogycode/CPPFromZero/tree/master/src/020.STL_Mismatch)
   - [021.**STL** Equal](https://github.com/ogycode/CPPFromZero/tree/master/src/021.STL_Equal)
   - [022.**STL** Find, Find_If, Fint_If_Not](https://github.com/ogycode/CPPFromZero/tree/master/src/022.STL_FindFind_IfFint_If_Not)
+  - [023.**STL** Copy, Copy_If, Copy_N, Copy_Backward](https://github.com/ogycode/CPPFromZero/tree/master/src/023.STL_CopyCopy_IfCopy_NCopy_Backward)
