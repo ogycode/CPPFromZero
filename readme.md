@@ -32,3 +32,4 @@ Links:
   - [023.**STL** Copy, Copy_If, Copy_N, Copy_Backward](https://github.com/ogycode/CPPFromZero/tree/master/src/023.STL_CopyCopy_IfCopy_NCopy_Backward)
   - [024.**STL** Move, Move_Backward](https://github.com/ogycode/CPPFromZero/tree/master/src/024.STL_MoveMove_Backward)
   - [025.**STL** Fill, Fill_N](https://github.com/ogycode/CPPFromZero/tree/master/src/025.STL_FillFill_N)
+  - [022.**STL** Transform](https://github.com/ogycode/CPPFromZero/tree/master/src/026.STL_Transform)
