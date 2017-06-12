@@ -1,4 +1,4 @@
-[![Logo](https://raw.githubusercontent.com/ogycode/CPPFromZero/master/merch/logo.jpg)](https://github.com/ogycode/CPPFromZero)*
+[![Logo](https://raw.githubusercontent.com/ogycode/CPPFromZero/master/merch/logo.jpg)](https://github.com/ogycode/CPPFromZero)
 
 ## C++ from Zero
 **I study the language and this is my "note-book"**
@@ -30,3 +30,4 @@ Links:
   - [021.**STL** Equal](https://github.com/ogycode/CPPFromZero/tree/master/src/021.STL_Equal)
   - [022.**STL** Find, Find_If, Fint_If_Not](https://github.com/ogycode/CPPFromZero/tree/master/src/022.STL_FindFind_IfFint_If_Not)
   - [023.**STL** Copy, Copy_If, Copy_N, Copy_Backward](https://github.com/ogycode/CPPFromZero/tree/master/src/023.STL_CopyCopy_IfCopy_NCopy_Backward)
+  - [024.**STL** Move, Move_Backward](https://github.com/ogycode/CPPFromZero/tree/master/src/024.STL_MoveMove_Backward)
