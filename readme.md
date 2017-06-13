@@ -35,3 +35,4 @@ Links:
   - [026.**STL** Transform](https://github.com/ogycode/CPPFromZero/tree/master/src/026.STL_Transform)
   - [027.**STL** Generate, Generate_N](https://github.com/ogycode/CPPFromZero/tree/master/src/027.STL_GenerateGenerate_N)
   - [028.**STL** Remove, Remove_If, Remove_Copy, Remove_Copy_If](https://github.com/ogycode/CPPFromZero/tree/master/src/028.STL_RemoveRemove_IfRemove_CopyRemove_Copy_If)
+  - [029.**STL** Replace, Replace_If, Replace_Copy, Replace_Copy_If](https://github.com/ogycode/CPPFromZero/tree/master/src/029.STL_ReplaceReplace_IfReplace_CopyReplace_Copy_If)
