@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "029.STL_ReplaceReplace_IfRe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "030.STL_SwapSwap_RangesIter_Swap", "030.STL_SwapSwap_RangesIter_Swap\030.STL_SwapSwap_RangesIter_Swap.vcxproj", "{A677BE73-FCFC-4A2F-AD23-571579FCFFCD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "031.STL_ReverseReverse_Copy", "031.STL_ReverseReverse_Copy\031.STL_ReverseReverse_Copy.vcxproj", "{AEE7F843-45BF-4FC7-AA15-F3B4E24854C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -373,6 +375,16 @@ Global
 		{A677BE73-FCFC-4A2F-AD23-571579FCFFCD}.Release|x64.Build.0 = Release|x64
 		{A677BE73-FCFC-4A2F-AD23-571579FCFFCD}.Release|x86.ActiveCfg = Release|Win32
 		{A677BE73-FCFC-4A2F-AD23-571579FCFFCD}.Release|x86.Build.0 = Release|Win32
+		{AEE7F843-45BF-4FC7-AA15-F3B4E24854C9}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{AEE7F843-45BF-4FC7-AA15-F3B4E24854C9}.Debug|x64.ActiveCfg = Debug|x64
+		{AEE7F843-45BF-4FC7-AA15-F3B4E24854C9}.Debug|x64.Build.0 = Debug|x64
+		{AEE7F843-45BF-4FC7-AA15-F3B4E24854C9}.Debug|x86.ActiveCfg = Debug|Win32
+		{AEE7F843-45BF-4FC7-AA15-F3B4E24854C9}.Debug|x86.Build.0 = Debug|Win32
+		{AEE7F843-45BF-4FC7-AA15-F3B4E24854C9}.Release|Any CPU.ActiveCfg = Release|Win32
+		{AEE7F843-45BF-4FC7-AA15-F3B4E24854C9}.Release|x64.ActiveCfg = Release|x64
+		{AEE7F843-45BF-4FC7-AA15-F3B4E24854C9}.Release|x64.Build.0 = Release|x64
+		{AEE7F843-45BF-4FC7-AA15-F3B4E24854C9}.Release|x86.ActiveCfg = Release|Win32
+		{AEE7F843-45BF-4FC7-AA15-F3B4E24854C9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
