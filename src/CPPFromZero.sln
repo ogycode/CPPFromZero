@@ -65,6 +65,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "030.STL_SwapSwap_RangesIter
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "031.STL_ReverseReverse_Copy", "031.STL_ReverseReverse_Copy\031.STL_ReverseReverse_Copy.vcxproj", "{AEE7F843-45BF-4FC7-AA15-F3B4E24854C9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "032.STL_RotateRotate_Copy", "032.STL_RotateRotate_Copy\032.STL_RotateRotate_Copy.vcxproj", "{5A5CB28C-CF5B-4175-98F9-6BECA095DFA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -385,6 +387,16 @@ Global
 		{AEE7F843-45BF-4FC7-AA15-F3B4E24854C9}.Release|x64.Build.0 = Release|x64
 		{AEE7F843-45BF-4FC7-AA15-F3B4E24854C9}.Release|x86.ActiveCfg = Release|Win32
 		{AEE7F843-45BF-4FC7-AA15-F3B4E24854C9}.Release|x86.Build.0 = Release|Win32
+		{5A5CB28C-CF5B-4175-98F9-6BECA095DFA2}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{5A5CB28C-CF5B-4175-98F9-6BECA095DFA2}.Debug|x64.ActiveCfg = Debug|x64
+		{5A5CB28C-CF5B-4175-98F9-6BECA095DFA2}.Debug|x64.Build.0 = Debug|x64
+		{5A5CB28C-CF5B-4175-98F9-6BECA095DFA2}.Debug|x86.ActiveCfg = Debug|Win32
+		{5A5CB28C-CF5B-4175-98F9-6BECA095DFA2}.Debug|x86.Build.0 = Debug|Win32
+		{5A5CB28C-CF5B-4175-98F9-6BECA095DFA2}.Release|Any CPU.ActiveCfg = Release|Win32
+		{5A5CB28C-CF5B-4175-98F9-6BECA095DFA2}.Release|x64.ActiveCfg = Release|x64
+		{5A5CB28C-CF5B-4175-98F9-6BECA095DFA2}.Release|x64.Build.0 = Release|x64
+		{5A5CB28C-CF5B-4175-98F9-6BECA095DFA2}.Release|x86.ActiveCfg = Release|Win32
+		{5A5CB28C-CF5B-4175-98F9-6BECA095DFA2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
