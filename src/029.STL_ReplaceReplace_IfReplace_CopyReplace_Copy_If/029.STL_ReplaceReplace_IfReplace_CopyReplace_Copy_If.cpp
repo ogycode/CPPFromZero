@@ -15,7 +15,7 @@ int main()
 {
 	system("color 70");
 	setlocale(0, "Russina");
-	SetConsoleTitle("028.STL_Remove Remove_If Remove_Copy Remove_Copy_If");
+	SetConsoleTitle("029.STL_Remove Remove_If Remove_Copy Remove_Copy_If");
 
 	vector<int> vec(10);
 
@@ -23,7 +23,7 @@ int main()
 	for (auto i : vec)
 		cout << i << " ";
 
-	//replace замен¤ет элементы в диапазоне
+	//replace заменяет элементы в диапазоне
 	//(указаные на указаные)
 	replace(vec.begin(), vec.end(), 0, 1);
 
@@ -31,7 +31,7 @@ int main()
 	for (auto i : vec)
 		cout << i << " ";
 
-	//replace_if замен¤ет элементы указаным значением дл¤ котрого 
+	//replace_if заменяет элементы указаным значением для котрого 
 	//предикант возсращает true
 	replace_if(vec.begin(), vec.end(), Pred, 2);
 
@@ -61,7 +61,7 @@ int main()
 		cout << i << " ";
 
 	//replace_copy_if копирует диапазон в указаное место
-	//замен¤ет елементы к которым предикант возвращает true
+	//заменяет елементы к которым предикант возвращает true
 	//на указаные элемент
 	replace_copy_if(vec.begin(), vec.end(), vec2.begin(), Pred2, 55);
 
