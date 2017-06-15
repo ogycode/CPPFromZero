@@ -40,3 +40,4 @@ Links:
   - [031.**STL** Reverse, Reverse_Copy](https://github.com/ogycode/CPPFromZero/tree/master/src/031.STL_ReverseReverse_Copy)
   - [032.**STL** Rotate, Rotate_Copy](https://github.com/ogycode/CPPFromZero/tree/master/src/032.STL_RotateRotate_Copy)
   - [033.**STL** Shuffle, Random_Shuffle](https://github.com/ogycode/CPPFromZero/tree/master/src/032.STL_ShuffleRandom_Shuffle)
+  - [034.**STL** Unique, Unique_Copy](https://github.com/ogycode/CPPFromZero/tree/master/src/034.STL_UniqueUnique_Copy)

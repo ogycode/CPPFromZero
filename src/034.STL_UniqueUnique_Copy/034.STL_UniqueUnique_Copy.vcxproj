@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{8E434528-9117-4E64-845E-E4401CF0F4CA}</ProjectGuid>
+    <ProjectGuid>{03E5D17A-6B84-49EC-8193-3523DAE6E209}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My032STL_ShuffleRandom_Shuffle</RootNamespace>
+    <RootNamespace>My034STL_UniqueUnique_Copy</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>033.STL_ShuffleRandom_Shuffle</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +139,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="033.STL_ShuffleRandom_Shuffle.cpp" />
+    <ClCompile Include="034.STL_UniqueUnique_Copy.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

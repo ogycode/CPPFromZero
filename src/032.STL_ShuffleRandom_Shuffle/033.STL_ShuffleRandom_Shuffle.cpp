@@ -11,7 +11,7 @@ int main()
 {
 	system("color 70");
 	setlocale(0, "Russina");
-	SetConsoleTitle("032.STL_Shuffle Random_Shuffle");
+	SetConsoleTitle("033.STL_Shuffle Random_Shuffle");
 
 	//для адекватной работы страндартнго генератора рандомных чисел
 	//std::rand()
