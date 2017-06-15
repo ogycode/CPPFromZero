@@ -67,6 +67,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "031.STL_ReverseReverse_Copy
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "032.STL_RotateRotate_Copy", "032.STL_RotateRotate_Copy\032.STL_RotateRotate_Copy.vcxproj", "{5A5CB28C-CF5B-4175-98F9-6BECA095DFA2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "032.STL_ShuffleRandom_Shuffle", "032.STL_ShuffleRandom_Shuffle\032.STL_ShuffleRandom_Shuffle.vcxproj", "{8E434528-9117-4E64-845E-E4401CF0F4CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -397,6 +399,16 @@ Global
 		{5A5CB28C-CF5B-4175-98F9-6BECA095DFA2}.Release|x64.Build.0 = Release|x64
 		{5A5CB28C-CF5B-4175-98F9-6BECA095DFA2}.Release|x86.ActiveCfg = Release|Win32
 		{5A5CB28C-CF5B-4175-98F9-6BECA095DFA2}.Release|x86.Build.0 = Release|Win32
+		{8E434528-9117-4E64-845E-E4401CF0F4CA}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{8E434528-9117-4E64-845E-E4401CF0F4CA}.Debug|x64.ActiveCfg = Debug|x64
+		{8E434528-9117-4E64-845E-E4401CF0F4CA}.Debug|x64.Build.0 = Debug|x64
+		{8E434528-9117-4E64-845E-E4401CF0F4CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{8E434528-9117-4E64-845E-E4401CF0F4CA}.Debug|x86.Build.0 = Debug|Win32
+		{8E434528-9117-4E64-845E-E4401CF0F4CA}.Release|Any CPU.ActiveCfg = Release|Win32
+		{8E434528-9117-4E64-845E-E4401CF0F4CA}.Release|x64.ActiveCfg = Release|x64
+		{8E434528-9117-4E64-845E-E4401CF0F4CA}.Release|x64.Build.0 = Release|x64
+		{8E434528-9117-4E64-845E-E4401CF0F4CA}.Release|x86.ActiveCfg = Release|Win32
+		{8E434528-9117-4E64-845E-E4401CF0F4CA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

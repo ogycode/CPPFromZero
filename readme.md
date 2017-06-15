@@ -39,3 +39,4 @@ Links:
   - [030.**STL** Swap, Swap_Ranges, Iter_Swap](https://github.com/ogycode/CPPFromZero/tree/master/src/030.STL_SwapSwap_RangesIter_Swap)
   - [031.**STL** Reverse, Reverse_Copy](https://github.com/ogycode/CPPFromZero/tree/master/src/031.STL_ReverseReverse_Copy)
   - [032.**STL** Rotate, Rotate_Copy](https://github.com/ogycode/CPPFromZero/tree/master/src/032.STL_RotateRotate_Copy)
+  - [033.**STL** Shuffle, Random_Shuffle](https://github.com/ogycode/CPPFromZero/tree/master/src/032.STL_ShuffleRandom_Shuffle)
