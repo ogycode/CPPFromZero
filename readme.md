@@ -1,12 +1,12 @@
 [![Logo](https://raw.githubusercontent.com/ogycode/CPPFromZero/master/merch/logo.jpg)](https://github.com/ogycode/CPPFromZero)
 
-## C++ from Zero
+# C++ from Zero
 **I study the language and this is my "note-book"**
 
-Links:
+## Links:
   - [ru.cppreference.com](http://ru.cppreference.com)
 
- Steps:
+ ## Steps:
   - [001.Hello World](https://github.com/ogycode/CPPFromZero/tree/master/src/001.HelloWorld)
   - [002.Data Types](https://github.com/ogycode/CPPFromZero/tree/master/src/002.DataTypes)
   - [003.If Else](https://github.com/ogycode/CPPFromZero/tree/master/src/003.IfElse)
@@ -20,7 +20,7 @@ Links:
   - [011.Text File I/O](https://github.com/ogycode/CPPFromZero/tree/master/src/011.TextFileIO)
   - [012.Template](https://github.com/ogycode/CPPFromZero/tree/master/src/012.Template)
   - [013.Operator Overloading](https://github.com/ogycode/CPPFromZero/tree/master/src/013.OperatorOverloading)
-  - [014.**STL** Vector](https://github.com/ogycode/CPPFromZero/tree/master/src/014.STL_Vector)
+  - [014.**STL** Vector](https://github.com/ogycode/CPPFromZero/tree/master/src/014.STL_Vector) (*[Remark #1](#remark1)*)
   - [015.**STL** List](https://github.com/ogycode/CPPFromZero/tree/master/src/015.STL_List)
   - [016.**STL** Map](https://github.com/ogycode/CPPFromZero/tree/master/src/016.STL_Map)
   - [017.**STL** Count, Count_If](https://github.com/ogycode/CPPFromZero/tree/master/src/017.STL_CountCount_If)
@@ -41,3 +41,10 @@ Links:
   - [032.**STL** Rotate, Rotate_Copy](https://github.com/ogycode/CPPFromZero/tree/master/src/032.STL_RotateRotate_Copy)
   - [033.**STL** Shuffle, Random_Shuffle](https://github.com/ogycode/CPPFromZero/tree/master/src/032.STL_ShuffleRandom_Shuffle)
   - [034.**STL** Unique, Unique_Copy](https://github.com/ogycode/CPPFromZero/tree/master/src/034.STL_UniqueUnique_Copy)
+
+## This is the Heading
+ - <a name="remark1"></a>**STL** - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
+  - <a name="remark2"></a>**AD** - [Algorithm](https://en.wikipedia.org/wiki/Algorithm) and [Data structure](https://en.wikipedia.org/wiki/Data_structure)
+   - <a name="remark3"></a>**QT** - [Qt (software)](https://en.wikipedia.org/wiki/Qt_(software))
+
+ 
