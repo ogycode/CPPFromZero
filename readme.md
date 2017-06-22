@@ -4,7 +4,7 @@
 **I study the language and this is my "note-book"**
 
 ## Links:
-  - [ru.cppreference.com](http://ru.cppreference.com)
+  - [cppreference.com](http://cppreference.com)
 
  ## Steps:
   - [001.Hello World](https://github.com/ogycode/CPPFromZero/tree/master/src/001.HelloWorld)
@@ -41,6 +41,7 @@
   - [032.**STL** Rotate, Rotate_Copy](https://github.com/ogycode/CPPFromZero/tree/master/src/032.STL_RotateRotate_Copy)
   - [033.**STL** Shuffle, Random_Shuffle](https://github.com/ogycode/CPPFromZero/tree/master/src/032.STL_ShuffleRandom_Shuffle)
   - [034.**STL** Unique, Unique_Copy](https://github.com/ogycode/CPPFromZero/tree/master/src/034.STL_UniqueUnique_Copy)
+  - [035.**STL** Partition and etc.](https://github.com/ogycode/CPPFromZero/tree/master/src/035.STL_Partition_and_Etc)
 
 ## Remarks
  - <a name="remark1"></a>**STL** - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
