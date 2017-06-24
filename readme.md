@@ -3,6 +3,8 @@
 # C++ from Zero
 **I study the language and this is my "note-book"**
 
+## Last edited date: `24.06.2017`
+
 ## Links:
   - [cppreference.com](http://cppreference.com)
 
@@ -42,6 +44,7 @@
   - [033.**STL** Shuffle, Random_Shuffle](https://github.com/ogycode/CPPFromZero/tree/master/src/032.STL_ShuffleRandom_Shuffle)
   - [034.**STL** Unique, Unique_Copy](https://github.com/ogycode/CPPFromZero/tree/master/src/034.STL_UniqueUnique_Copy)
   - [035.**STL** Partition and etc.](https://github.com/ogycode/CPPFromZero/tree/master/src/035.STL_Partition_and_Etc)
+  - [036.**STL** Sort and etc.](https://github.com/ogycode/CPPFromZero/tree/master/src/036.STL_SortAndEtc)
 
 ## Remarks
  - <a name="remark1"></a>**STL** - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
