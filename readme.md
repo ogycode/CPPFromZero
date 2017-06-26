@@ -42,10 +42,9 @@
   - [034.**STL** Unique, Unique_Copy](https://github.com/ogycode/CPPFromZero/tree/master/src/034.STL_UniqueUnique_Copy)
   - [035.**STL** Partition and etc.](https://github.com/ogycode/CPPFromZero/tree/master/src/035.STL_Partition_and_Etc)
   - [036.**STL** Sort and etc.](https://github.com/ogycode/CPPFromZero/tree/master/src/036.STL_SortAndEtc)
+  - [037.**STL** Binary Search](https://github.com/ogycode/CPPFromZero/tree/master/src/037.STL_BinarySearch)
 
 ## Remarks
  - <a name="remark1"></a>**STL** - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
-  - <a name="remark2"></a>**AD** - [Algorithm](https://en.wikipedia.org/wiki/Algorithm) and [Data structure](https://en.wikipedia.org/wiki/Data_structure)
-   - <a name="remark3"></a>**QT** - [Qt (software)](https://en.wikipedia.org/wiki/Qt_(software))
-
- 
+ - <a name="remark2"></a>**QT** - [Qt (software)](https://en.wikipedia.org/wiki/Qt_(software))
+ - <a name="remark3"></a>**AD** - [Algorithm](https://en.wikipedia.org/wiki/Algorithm) and [Data structure](https://en.wikipedia.org/wiki/Data_structure) 
