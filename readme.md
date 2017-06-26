@@ -5,10 +5,7 @@
 
 ## Last edited date: `24.06.2017`
 
-## Links:
-  - [cppreference.com](http://cppreference.com)
-
- ## Steps:
+## Steps:
   - [001.Hello World](https://github.com/ogycode/CPPFromZero/tree/master/src/001.HelloWorld)
   - [002.Data Types](https://github.com/ogycode/CPPFromZero/tree/master/src/002.DataTypes)
   - [003.If Else](https://github.com/ogycode/CPPFromZero/tree/master/src/003.IfElse)
