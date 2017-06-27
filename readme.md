@@ -3,8 +3,6 @@
 # C++ from Zero
 **I study the language and this is my "note-book"**
 
-## Last edited date: `24.06.2017`
-
 ## Steps:
   - [001.Hello World](https://github.com/ogycode/CPPFromZero/tree/master/src/001.HelloWorld)
   - [002.Data Types](https://github.com/ogycode/CPPFromZero/tree/master/src/002.DataTypes)
@@ -42,7 +40,8 @@
   - [034.**STL** Unique, Unique_Copy](https://github.com/ogycode/CPPFromZero/tree/master/src/034.STL_UniqueUnique_Copy)
   - [035.**STL** Partition and etc.](https://github.com/ogycode/CPPFromZero/tree/master/src/035.STL_Partition_and_Etc)
   - [036.**STL** Sort and etc.](https://github.com/ogycode/CPPFromZero/tree/master/src/036.STL_SortAndEtc)
-  - [037.**STL** Binary Search](https://github.com/ogycode/CPPFromZero/tree/master/src/037.STL_BinarySearch)
+  - [037.**STL** Binary search](https://github.com/ogycode/CPPFromZero/tree/master/src/037.STL_BinarySearch)
+  - [038.**STL** Operation on set](https://github.com/ogycode/CPPFromZero/tree/master/src/038.STL_OperationOnSet)
 
 ## Remarks
  - <a name="remark1"></a>**STL** - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)

@@ -77,6 +77,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "036.STL_SortAndEtc", "036.S
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "037.STL_BinarySearch", "037.STL_BinarySearch\037.STL_BinarySearch.vcxproj", "{BDA947DB-CA54-49AA-AAFF-9DEAE7DD4727}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "038.STL_OperationOnSet", "038.STL_OperationOnSet\038.STL_OperationOnSet.vcxproj", "{241450CE-983E-45A2-8A04-5B9A5D1D7EFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -457,6 +459,16 @@ Global
 		{BDA947DB-CA54-49AA-AAFF-9DEAE7DD4727}.Release|x64.Build.0 = Release|x64
 		{BDA947DB-CA54-49AA-AAFF-9DEAE7DD4727}.Release|x86.ActiveCfg = Release|Win32
 		{BDA947DB-CA54-49AA-AAFF-9DEAE7DD4727}.Release|x86.Build.0 = Release|Win32
+		{241450CE-983E-45A2-8A04-5B9A5D1D7EFF}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{241450CE-983E-45A2-8A04-5B9A5D1D7EFF}.Debug|x64.ActiveCfg = Debug|x64
+		{241450CE-983E-45A2-8A04-5B9A5D1D7EFF}.Debug|x64.Build.0 = Debug|x64
+		{241450CE-983E-45A2-8A04-5B9A5D1D7EFF}.Debug|x86.ActiveCfg = Debug|Win32
+		{241450CE-983E-45A2-8A04-5B9A5D1D7EFF}.Debug|x86.Build.0 = Debug|Win32
+		{241450CE-983E-45A2-8A04-5B9A5D1D7EFF}.Release|Any CPU.ActiveCfg = Release|Win32
+		{241450CE-983E-45A2-8A04-5B9A5D1D7EFF}.Release|x64.ActiveCfg = Release|x64
+		{241450CE-983E-45A2-8A04-5B9A5D1D7EFF}.Release|x64.Build.0 = Release|x64
+		{241450CE-983E-45A2-8A04-5B9A5D1D7EFF}.Release|x86.ActiveCfg = Release|Win32
+		{241450CE-983E-45A2-8A04-5B9A5D1D7EFF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
