@@ -45,7 +45,8 @@
   - [039.**STL** Operation on heap](https://github.com/ogycode/CPPFromZero/tree/master/src/039.STL_OperationOnHeap)
   - [040.**STL** Min, Max, Permutation](https://github.com/ogycode/CPPFromZero/tree/master/src/040.STL_MinMaxPermutation)
   - [041.**STL** Iota, Accumulate, Inner_Product, Adjacent_Difference, Partial_Sum](https://github.com/ogycode/CPPFromZero/tree/master/src/041.STL_IotaAccumulateInner_ProductAdjacent_DifferencePartial_sum)
-  - [041.**QT, QML** Hello World](https://github.com/ogycode/CPPFromZero/tree/master/src/042_QT_QML_HelloWolrd) (*[Remark #2](#remark2)*)
+  - [042.**QT/QML** Hello World](https://github.com/ogycode/CPPFromZero/tree/master/src/042_QT_QML_HelloWolrd) (*[Remark #2](#remark2)*)
+  - [043.**QT/QML** Component](https://github.com/ogycode/CPPFromZero/tree/master/src/043_QT_QML_Component)
 
 ## Remarks
  - <a name="remark1"></a>**STL** - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
