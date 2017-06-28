@@ -43,6 +43,7 @@
   - [037.**STL** Binary search](https://github.com/ogycode/CPPFromZero/tree/master/src/037.STL_BinarySearch)
   - [038.**STL** Operation on set](https://github.com/ogycode/CPPFromZero/tree/master/src/038.STL_OperationOnSet)
   - [039.**STL** Operation on heap](https://github.com/ogycode/CPPFromZero/tree/master/src/039.STL_OperationOnHeap)
+  - [040.**STL** Min, Max, Permutation](https://github.com/ogycode/CPPFromZero/tree/master/src/040.STL_MinMaxPermutation)
 
 ## Remarks
  - <a name="remark1"></a>**STL** - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
