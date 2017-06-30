@@ -47,6 +47,7 @@
   - [041.**STL** Iota, Accumulate, Inner_Product, Adjacent_Difference, Partial_Sum](https://github.com/ogycode/CPPFromZero/tree/master/src/041.STL_IotaAccumulateInner_ProductAdjacent_DifferencePartial_sum)
   - [042.**QT** IP Validator](https://github.com/ogycode/CPPFromZero/tree/master/src/042_QT_IPValidator) (*[Remark #2](#remark2)*)
   - [043.**QT** System Tray](https://github.com/ogycode/CPPFromZero/tree/master/src/043_QT_Tray) 
+  - [044.**QT** Application Settings](https://github.com/ogycode/CPPFromZero/tree/master/src/044_QT_AppSettings) 
 
 ## Remarks
  - <a name="remark1"></a>**STL** - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
