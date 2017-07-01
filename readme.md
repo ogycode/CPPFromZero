@@ -48,6 +48,7 @@
   - [042.**QT** IP Validator](https://github.com/ogycode/CPPFromZero/tree/master/src/042_QT_IPValidator) (*[Remark #2](#remark2)*)
   - [043.**QT** System Tray](https://github.com/ogycode/CPPFromZero/tree/master/src/043_QT_Tray) 
   - [044.**QT** Application Settings](https://github.com/ogycode/CPPFromZero/tree/master/src/044_QT_AppSettings) 
+  - [045.**QT** SQLite Table](https://github.com/ogycode/CPPFromZero/tree/master/src/045_QT_SQLTable) 
 
 ## Remarks
  - <a name="remark1"></a>**STL** - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
