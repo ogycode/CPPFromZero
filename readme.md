@@ -50,6 +50,7 @@
   - [044.**QT** Application Settings](https://github.com/ogycode/CPPFromZero/tree/master/src/044_QT_AppSettings) 
   - [045.**QT** SQLite Table](https://github.com/ogycode/CPPFromZero/tree/master/src/045_QT_SQLTable)
   - [046.**QT** SQLite Relational Table](https://github.com/ogycode/CPPFromZero/tree/master/src/046_QT_SQLRelationalTable)
+  - [047.**QT** QTimer](https://github.com/ogycode/CPPFromZero/tree/master/src/047_QT_QTimer)
 
 ## Remarks
  - <a name="remark1"></a>**STL** - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
