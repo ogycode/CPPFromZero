@@ -53,6 +53,7 @@
   - [047.**QT** QTimer](https://github.com/ogycode/CPPFromZero/tree/master/src/047_QT_QTimer)
   - [048.**QT** QSplitter](https://github.com/ogycode/CPPFromZero/tree/master/src/048_QT_QSplitter)
   - [049.**QT** Xml](https://github.com/ogycode/CPPFromZero/tree/master/src/049_QT_Xml)
+  - [050.**QT** QShortcut](https://github.com/ogycode/CPPFromZero/tree/master/src/050_QT_QShortcut)
 
 ## Remarks
  - <a name="remark1"></a>**STL** - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
