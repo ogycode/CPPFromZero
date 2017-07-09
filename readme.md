@@ -52,6 +52,7 @@
   - [046.**QT** SQLite Relational Table](https://github.com/ogycode/CPPFromZero/tree/master/src/046_QT_SQLRelationalTable)
   - [047.**QT** QTimer](https://github.com/ogycode/CPPFromZero/tree/master/src/047_QT_QTimer)
   - [048.**QT** QSplitter](https://github.com/ogycode/CPPFromZero/tree/master/src/048_QT_QSplitter)
+  - [049.**QT** Xml](https://github.com/ogycode/CPPFromZero/tree/master/src/049_QT_Xml)
 
 ## Remarks
  - <a name="remark1"></a>**STL** - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
