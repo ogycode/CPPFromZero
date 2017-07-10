@@ -54,6 +54,7 @@
   - [048.**QT** QSplitter](https://github.com/ogycode/CPPFromZero/tree/master/src/048_QT_QSplitter)
   - [049.**QT** Xml](https://github.com/ogycode/CPPFromZero/tree/master/src/049_QT_Xml)
   - [050.**QT** QShortcut](https://github.com/ogycode/CPPFromZero/tree/master/src/050_QT_QShortcut)
+  - [051.**QT** Dynamic widget creation](https://github.com/ogycode/CPPFromZero/tree/master/src/051_QT_DynamicWidgetCreation)
 
 ## Remarks
  - <a name="remark1"></a>**STL** - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
