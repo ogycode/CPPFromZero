@@ -55,6 +55,7 @@
   - [049.**QT** Xml](https://github.com/ogycode/CPPFromZero/tree/master/src/049_QT_Xml)
   - [050.**QT** QShortcut](https://github.com/ogycode/CPPFromZero/tree/master/src/050_QT_QShortcut)
   - [051.**QT** Dynamic widget creation](https://github.com/ogycode/CPPFromZero/tree/master/src/051_QT_DynamicWidgetCreation)
+  - [052.**QT** QGraphicsScene](https://github.com/ogycode/CPPFromZero/tree/master/src/052_QT_QGraphicsScene)
 
 ## Remarks
  - <a name="remark1"></a>**STL** - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
