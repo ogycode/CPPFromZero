@@ -58,6 +58,7 @@
   - [052.**QT** QGraphicsScene](https://github.com/ogycode/CPPFromZero/tree/master/src/052_QT_QGraphicsScene)
   - [053.**QT** QGraphicsScene - draw triangle](https://github.com/ogycode/CPPFromZero/tree/master/src/053_QT_QGraphicsScene_DrawTriangle)
   - [054.**QT** QGraphicsItem](https://github.com/ogycode/CPPFromZero/tree/master/src/054_QT_QGraphicsItem)
+  - [055.**QT** QPainter](https://github.com/ogycode/CPPFromZero/tree/master/src/055_QT_QPainter)
 
 ## Remarks
  - <a name="remark1"></a>**STL** - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
