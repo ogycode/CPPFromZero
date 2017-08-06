@@ -61,6 +61,7 @@
   - [055.**QT** QPainter](https://github.com/ogycode/CPPFromZero/tree/master/src/055_QT_QPainter)
   - [056.**QT** Draw by Mouse](https://github.com/ogycode/CPPFromZero/tree/master/src/056_QT_Draw_by_Mouse)
   - [057.**QT** Change the Cursor](https://github.com/ogycode/CPPFromZero/tree/master/src/057_QT_Change_the_Cursor)
+  - [058.**QT** Drag QGraphicsItem](https://github.com/ogycode/CPPFromZero/tree/master/src/058_QT_Drag_QGraphicsItem)
 
 ## Remarks
  - <a name="remark1"></a>**STL** - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
