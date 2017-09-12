@@ -5,12 +5,12 @@ Sprite::Sprite(QString sprite, int count, int delay, QObject *parent) : QObject(
     width = 32;                 //ширина/высота кадра
     height = 32;
     frameCount = count;         //количество кадров
-    currentFrame = 0;           //условная скорость анимации
+    currentFrame = 0;           //первый кадр с которго начнется анимация
 
     img = new QPixmap(sprite);
     timer = new QTimer();
     connect(timer, SIGNAL(timeout()),this,SLOT(NextFrame()));
-    timer->start(delay);
+    timer->start(delay);		//delay - условная скорость анимации
 }
 
 Sprite::~Sprite()
