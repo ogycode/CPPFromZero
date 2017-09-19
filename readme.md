@@ -65,6 +65,7 @@
   - [059.**QT** Sprite](https://github.com/ogycode/CPPFromZero/tree/master/src/059_QT_Sprite)
   - [060.**QT** Echo server](https://github.com/ogycode/CPPFromZero/tree/master/src/060_QT_EchoServer)
   - [061.**QT** QNetworkAccessManager](https://github.com/ogycode/CPPFromZero/tree/master/src/061_QT_QNetworkAccessManager)
+  - [062.**QT** Switch between windows](https://github.com/ogycode/CPPFromZero/tree/master/src/062_QT_SwitchBetweenWindows)
 
 ## Remarks
  - <a name="remark1"></a>**STL** - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
