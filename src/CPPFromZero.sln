@@ -85,6 +85,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "040.STL_MinMaxPermutation",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "041.STL_IotaAccumulateInner_ProductAdjacent_DifferencePartial_sum", "041.STL_IotaAccumulateInner_ProductAdjacent_DifferencePartial_sum\041.STL_IotaAccumulateInner_ProductAdjacent_DifferencePartial_sum.vcxproj", "{B230489E-F1AC-4953-BAE7-E5E4771482B2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "063.VirtualMethodsAndInheritance", "063.VirtualMethodsAndInheritance\063.VirtualMethodsAndInheritance.vcxproj", "{D56E0F85-AD47-418A-B50E-1D8E0200C095}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -505,8 +507,21 @@ Global
 		{B230489E-F1AC-4953-BAE7-E5E4771482B2}.Release|x64.Build.0 = Release|x64
 		{B230489E-F1AC-4953-BAE7-E5E4771482B2}.Release|x86.ActiveCfg = Release|Win32
 		{B230489E-F1AC-4953-BAE7-E5E4771482B2}.Release|x86.Build.0 = Release|Win32
+		{D56E0F85-AD47-418A-B50E-1D8E0200C095}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{D56E0F85-AD47-418A-B50E-1D8E0200C095}.Debug|x64.ActiveCfg = Debug|x64
+		{D56E0F85-AD47-418A-B50E-1D8E0200C095}.Debug|x64.Build.0 = Debug|x64
+		{D56E0F85-AD47-418A-B50E-1D8E0200C095}.Debug|x86.ActiveCfg = Debug|Win32
+		{D56E0F85-AD47-418A-B50E-1D8E0200C095}.Debug|x86.Build.0 = Debug|Win32
+		{D56E0F85-AD47-418A-B50E-1D8E0200C095}.Release|Any CPU.ActiveCfg = Release|Win32
+		{D56E0F85-AD47-418A-B50E-1D8E0200C095}.Release|x64.ActiveCfg = Release|x64
+		{D56E0F85-AD47-418A-B50E-1D8E0200C095}.Release|x64.Build.0 = Release|x64
+		{D56E0F85-AD47-418A-B50E-1D8E0200C095}.Release|x86.ActiveCfg = Release|Win32
+		{D56E0F85-AD47-418A-B50E-1D8E0200C095}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9367CD9C-A140-4389-A294-276E4D168DD1}
 	EndGlobalSection
 EndGlobal
