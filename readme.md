@@ -71,5 +71,3 @@
 ## Remarks
  - <a name="remark1"></a>**STL** - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
  - <a name="remark2"></a>**QT** - [Qt (software)](https://en.wikipedia.org/wiki/Qt_(software))
- - <a name="remark3"></a>**AD** - [Algorithm](https://en.wikipedia.org/wiki/Algorithm) and [Data structure](https://en.wikipedia.org/wiki/Data_structure) 
- - <a name="remark4"></a>**DP** - [Design Patterns](https://sourcemaking.com/design_patterns)
